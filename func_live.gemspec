@@ -5,8 +5,8 @@ require_relative "lib/func_live/version"
 Gem::Specification.new do |spec|
   spec.name    = "func_live"
   spec.version = FuncLive::VERSION
-  spec.authors = ['Dmitry Babenko', 'ErgoServ']
-  spec.email   = ['dmitry@ergoserv.com', 'hello@ergoserv.com']
+  spec.authors = ["Dmitry Babenko", "ErgoServ"]
+  spec.email   = ["dmitry@ergoserv.com", "hello@ergoserv.com"]
 
   spec.summary     = "fund(live)"
   spec.description = "Allows you to import and call the functions on www.func.live."

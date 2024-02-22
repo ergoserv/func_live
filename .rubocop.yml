@@ -1,6 +1,9 @@
 AllCops:
   TargetRubyVersion: 3.0
 
+Style/IfUnlessModifier:
+  Enabled: false
+
 Style/Documentation:
   Enabled: false
 
